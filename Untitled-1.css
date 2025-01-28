@@ -1,0 +1,37 @@
+<style>
+        body {
+            background-image: url(fondAI.jpg);
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            color: white; /* Pour que le texte soit lisible sur un fond sombre */
+        }
+        nav ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        nav ul li {
+            display: inline;
+            margin-right: 10px;
+        }
+        nav ul li a {
+            color: white;
+            text-decoration: none;
+        }
+        section {
+            background-color: rgba(0, 0, 0, 0.7); /* Fond semi-transparent pour les sections */
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 10px;
+        }
+        h1{
+            text-align: center;
+        }
+        h2{
+            text-align: center;
+        }
+        footer{
+            text-align: center;
+            color: red;
+        }
+    </style>
